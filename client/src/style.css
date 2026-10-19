@@ -1,0 +1,6 @@
+body { background: #f4f6f9; color: #243047; }
+.auth-card { max-width: 440px; }
+.card { border-radius: 12px; }
+.table th { color: #5d687a; font-size: 0.85rem; }
+.expense-text { min-width: 130px; max-width: 280px; overflow-wrap: anywhere; }
+.note { white-space: pre-wrap; }
